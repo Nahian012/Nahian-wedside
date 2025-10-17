@@ -1,0 +1,246 @@
+	body{
+		background: lightgoldenrodyellow;
+	 	text-align: center;
+	 	background-image:url( artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1-2048x1366.jpg);
+	 	background-repeat: no-repeat;
+	 	background-size: 100%,100%;
+	 	background-attachment: fixed;
+	 	text-align: center;
+@media only screen and (max-width: 767px){
+
+	}
+     h1{
+     	color: orange;
+    }
+     span{
+     	color: navy;
+    }
+    label{
+    	color: orange;
+    	font-family: "Chivo", sans-serif;
+    }
+    input[type="text"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    input[type="email"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    input[type="password"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    input[type="date"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    select{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: 0px 0px 20px 5px rgba(255, 69, 0, 0.5);
+    }
+    button{
+    	background: linear-gradient(180deg, green, lightblue);
+    	color: white;
+    	font-weight: bold;
+    	font-size: 18px;
+    	padding: 5px;
+    	border: 2px solid forestgreen;
+    	border-radius: 10px;
+    }
+    button:hover{
+    	background: linear-gradient(darkred, red, palevioletred);
+    }
+}
+@media only screen and (max-width: 1024px){
+     h1{
+     	color: orange;
+    }
+     span{
+     	color: navy;
+    }
+    label{
+    	color: orange;
+    	font-family: "Chivo", sans-serif;
+    }
+    input[type="text"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    input[type="email"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    input[type="password"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    input[type="date"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    select{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: 0px 0px 20px 5px rgba(255, 69, 0, 0.5);
+    }
+    button{
+    	background: linear-gradient(180deg, green, lightblue);
+    	color: white;
+    	font-weight: bold;
+    	font-size: 18px;
+    	padding: 5px;
+    	border: 2px solid forestgreen;
+    	border-radius: 10px;
+    }
+    button:hover{
+    	background: linear-gradient(darkred, red, palevioletred);
+    }
+}
+@media only screen and (min-width: 767px) and (max-height: 1024px){
+     h1{
+     	color: lightblue;
+    }
+     span{
+     	color: navy;
+    }
+    label{
+    	color: orange;
+    	font-family: "Chivo", sans-serif;
+    }
+    input[type="text"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    input[type="email"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    input[type="password"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    input[type="date"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    select{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: 0px 0px 20px 5px rgba(255, 69, 0, 0.5);
+    }
+    button{
+    	background: linear-gradient(180deg, green, lightblue);
+    	color: white;
+    	font-weight: bold;
+    	font-size: 18px;
+    	padding: 5px;
+    	border: 2px solid forestgreen;
+    	border-radius: 10px;
+    }
+    button:hover{
+    	background: linear-gradient(darkred, red, palevioletred);
+    }
+}
+@media only screen and (max-width: 1024px){
+     h1{
+     	color: orange;
+    }
+     span{
+     	color: navy;
+    }
+    label{
+    	color: orange;
+    	font-family: "Chivo", sans-serif;
+    }
+    input[type="text"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    input[type="email"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    input[type="password"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    input[type="date"]{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: -10px 10px 10px 5px navy;
+    }
+    select{
+    	font-size: 20px;
+    	border: 3px solid blue;
+    	border-radius: 20px;
+    	padding: 5px;
+    	box-shadow: 0px 0px 20px 5px rgba(255, 69, 0, 0.5);
+    }
+    button{
+    	background: linear-gradient(180deg, green, lightblue);
+    	color: white;
+    	font-weight: bold;
+    	font-size: 18px;
+    	padding: 5px;
+    	border: 2px solid forestgreen;
+    	border-radius: 10px;
+    }
+    button:hover{
+    	background: linear-gradient(darkred, red, palevioletred);
+    }
+}
